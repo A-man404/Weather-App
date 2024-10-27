@@ -28,5 +28,5 @@ Follow these instructions to get a copy of the project running on your local mac
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/Weather-App.git
+   git clone https://github.com/A-man404/Weather-App.git
    cd Weather-App
