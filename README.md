@@ -13,6 +13,7 @@ This Weather App is built using **Kotlin** and **Jetpack Compose**, utilizing th
 - [ ] Additional page for extended weather information
 - [ ] Hourly weather information displayed
 - [ ] Splash screen on app launch
+- [ ] Make a widget for the HomeScreen
 
 
 ## Getting Started 🚀
