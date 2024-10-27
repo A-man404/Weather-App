@@ -2,7 +2,7 @@
 
 This Weather App is built using **Kotlin** and **Jetpack Compose**, utilizing the OpenWeather API to fetch and display current weather conditions, temperature, and additional meteorological data. 
 
-<img src="./assets/weather_home_screen.jpeg" alt="Weather App Preview" width="200"/>
+<img src="./assets/weather_home_screen.jpeg" alt="Weather App Preview" width="180"/>
 
 ## Features Checklist 📋
 
