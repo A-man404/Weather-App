@@ -14,11 +14,6 @@ This Weather App is built using **Kotlin** and **Jetpack Compose**, utilizing th
 - [ ] Hourly weather information displayed
 - [ ] Splash screen on app launch
 
-## Screenshots 📸
-
-### Home Screen
-<img src="./assets/weather_home_screen.jpeg" alt="Weather App HomeScreen" width="400"/>
-
 
 ## Getting Started 🚀
 
