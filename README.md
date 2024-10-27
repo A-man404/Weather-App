@@ -30,3 +30,6 @@ Follow these instructions to get a copy of the project running on your local mac
    ```bash
    git clone https://github.com/A-man404/Weather-App.git
    cd Weather-App
+
+### Releases
+You can download the latest version of the app from the [Release v1.0.0](https://github.com/A-man404/Weather-App/releases/tag/v1.0.0).
