@@ -1,14 +1,37 @@
-A weather app that i made using Kotlin and Jetpack Compose which uses RestAPI from openweather and currently shows the weather and other data about the temperature and the weather
+# Weather App ☀️🌧️
 
-## Weather App Features
+This Weather App is built using **Kotlin** and **Jetpack Compose**, utilizing the OpenWeather API to fetch and display current weather conditions, temperature, and additional meteorological data. The app includes interactive features such as real-time location updates, dynamic backgrounds, and hourly weather details.
 
-Here’s a list of planned and implemented features for the Weather App:
+![Weather App Preview](./images/weather-preview.png)
 
-- [x] Display current weather data (temperature, weather conditions)
-- [ ] Change the background of the app based on the weather
-- [ ] Allow users to change the location manually
-- [ ] Request and use the user’s live location for weather data
-- [ ] Add a new page to show an extended list of information
-- [ ] Display hourly weather information
-- [ ] Implement a splash screen
+## Features Checklist 📋
 
+- [x] Display current weather conditions and temperature
+- [x] Background changes dynamically based on the weather
+- [x] Change location to view weather in different areas
+- [x] Request and use user’s live location
+- [x] Additional page for extended weather information
+- [x] Hourly weather information displayed
+- [x] Splash screen on app launch
+
+## Screenshots 📸
+
+### Home Screen
+![Home Screen](./images/home_screen.png)
+
+
+## Getting Started 🚀
+
+Follow these instructions to get a copy of the project running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+- **Android Studio** (latest version recommended)
+- **API Key** from [OpenWeather](https://openweathermap.org/)
+
+### Installation
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/Weather-App.git
+   cd Weather-App
