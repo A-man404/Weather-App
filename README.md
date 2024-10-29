@@ -14,6 +14,7 @@ This Weather App is built using **Kotlin** and **Jetpack Compose**, utilizing th
 - [ ] Hourly weather information displayed
 - [ ] Splash screen on app launch
 - [ ] Make a widget for the HomeScreen
+- [ ] Pull to refresh
 
 
 ## Getting Started 🚀
