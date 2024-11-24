@@ -1,8 +1,8 @@
 # Weather App ☀️🌧️
 
-This Weather App is built using **Kotlin** and **Jetpack Compose**, utilizing the OpenWeather API to fetch and display current weather conditions, temperature, and additional meteorological data. The app includes interactive features such as real-time location updates, dynamic backgrounds, and hourly weather details.
+This Weather App is built using **Kotlin** and **Jetpack Compose**, utilizing the OpenWeather API to fetch and display current weather conditions, temperature, and additional meteorological data. 
 
-![Weather App Preview](./images/weather-preview.png)
+<img src="./assets/weather_home_screen.jpeg" alt="Weather App Preview" width="180"/>
 
 ## Features Checklist 📋
 
@@ -13,11 +13,8 @@ This Weather App is built using **Kotlin** and **Jetpack Compose**, utilizing th
 - [ ] Additional page for extended weather information
 - [ ] Hourly weather information displayed
 - [ ] Splash screen on app launch
-
-## Screenshots 📸
-
-### Home Screen
-![Home Screen](./images/home_screen.png)
+- [ ] Make a widget for the HomeScreen
+- [ ] Pull to refresh
 
 
 ## Getting Started 🚀
@@ -33,5 +30,8 @@ Follow these instructions to get a copy of the project running on your local mac
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/Weather-App.git
+   git clone https://github.com/A-man404/Weather-App.git
    cd Weather-App
+
+### Releases
+You can download the latest version of the app from the [Release v1.0.0](https://github.com/A-man404/Weather-App/releases/tag/v1.0.0).
