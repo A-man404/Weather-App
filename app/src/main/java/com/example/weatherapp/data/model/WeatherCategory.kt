@@ -1,4 +1,4 @@
-package com.example.weatherapp
+package com.example.weatherapp.data.model
 
 import com.google.gson.annotations.SerializedName
 
@@ -8,7 +8,6 @@ data class WeatherCategory(
     val visibility: Int,
     val wind: Wind,
     val name: String,
-
     )
 
 data class Weather(
@@ -33,5 +32,5 @@ data class WeatherResponse(
     val main: Main,
     val visibility: Int,
     val wind: Wind,
-    val name: String
+    val name: String,
 )

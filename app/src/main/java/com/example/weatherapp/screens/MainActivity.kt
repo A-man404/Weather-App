@@ -1,25 +1,25 @@
-package com.example.weatherapp
+package com.example.weatherapp.screens
 
 import android.os.Bundle
+import android.view.View
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
-import androidx.compose.foundation.background
-import androidx.compose.foundation.layout.Box
-import androidx.compose.foundation.layout.fillMaxSize
-import androidx.compose.ui.Modifier
-import androidx.compose.ui.graphics.Color
+import androidx.compose.material3.Scaffold
+import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
 import com.example.weatherapp.ui.theme.WeatherAppTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
+        window.decorView.systemUiVisibility = View.SYSTEM_UI_FLAG_FULLSCREEN
+        actionBar?.hide()
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
+        installSplashScreen()
+
         setContent {
             WeatherAppTheme {
-            Box(modifier = Modifier.fillMaxSize().background(Color(0xffffe142))){
                 MainScreen()
-            }
             }
         }
     }
