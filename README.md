@@ -38,3 +38,9 @@ Follow these instructions to get a copy of the project running on your local mac
 
 ### Releases
 You can download the latest version of the app from the [Release v1.1.0](https://github.com/A-man404/Weather-App/releases/tag/v1.1.0).
+
+## Support Me
+
+If you like this project, consider supporting me with a coffee! ☕️  
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/black_img.svg)](https://buymeacoffee.com/aman010)
+
