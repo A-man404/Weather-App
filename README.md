@@ -7,15 +7,18 @@ This Weather App is built using **Kotlin** and **Jetpack Compose**, utilizing th
 ## Features Checklist 📋
 
 - [x] Display current weather conditions and temperature
-- [ ] Background changes dynamically based on the weather
+- [x] Background changes dynamically based on the weather
+- [x] Pull to refresh
+- [x] Splash screen on app launch
 - [ ] Change location to view weather in different areas
 - [ ] Request and use user’s live location
 - [ ] Additional page for extended weather information
 - [ ] Hourly weather information displayed
-- [ ] Splash screen on app launch
 - [ ] Make a widget for the HomeScreen
-- [ ] Pull to refresh
 
+## WARNING
+
+The add place to change the weather is still on beta so the app might crash
 
 ## Getting Started 🚀
 
